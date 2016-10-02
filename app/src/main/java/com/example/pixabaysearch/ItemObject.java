@@ -11,7 +11,6 @@ public class ItemObject {
     public Drawable mImageDrawable;
     public String mImageDescription;
     public String mImageUrl;
-    public String test;
 
     public ItemObject(Drawable image, String desc, String url) {
         mImageDrawable = image;
