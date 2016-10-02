@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PixabaySearch</string>
+    <string name="menu_grid">Grid View</string>
+    <string name="menu_list">List View</string>
+    <string name="searchable">Searchable</string>
+    <string name="menu_search">Search</string>
+</resources>
